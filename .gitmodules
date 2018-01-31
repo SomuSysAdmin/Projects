@@ -1,0 +1,3 @@
+[submodule "code2snap"]
+	path = code2snap
+	url = git@github.com:code2snap/code2snap.git
